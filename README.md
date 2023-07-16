@@ -1,3 +1,3 @@
-# plugin-planetscale
+# Bellows PlanetScale Plugin
 
-[https://bellows.dev](https://bellows.dev)
+[https://bellows.dev/docs/plugins/planetscale](https://bellows.dev/docs/plugins/planetscale)
